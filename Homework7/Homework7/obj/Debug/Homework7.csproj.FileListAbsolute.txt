@@ -1,0 +1,12 @@
+c:\users\fico_\onedrive\documents\visual studio 2015\Projects\Homework7\Homework7\bin\Debug\Homework7.exe.config
+c:\users\fico_\onedrive\documents\visual studio 2015\Projects\Homework7\Homework7\bin\Debug\Homework7.exe
+c:\users\fico_\onedrive\documents\visual studio 2015\Projects\Homework7\Homework7\bin\Debug\Homework7.pdb
+c:\users\fico_\onedrive\documents\visual studio 2015\Projects\Homework7\Homework7\obj\Debug\Homework7.csprojResolveAssemblyReference.cache
+c:\users\fico_\onedrive\documents\visual studio 2015\Projects\Homework7\Homework7\obj\Debug\Homework7.exe
+c:\users\fico_\onedrive\documents\visual studio 2015\Projects\Homework7\Homework7\obj\Debug\Homework7.pdb
+C:\Users\10\Desktop\Homework7\Homework7\bin\Debug\Homework7.exe.config
+C:\Users\10\Desktop\Homework7\Homework7\obj\Debug\Homework7.exe
+C:\Users\10\Desktop\Homework7\Homework7\obj\Debug\Homework7.pdb
+C:\Users\10\Desktop\Homework7\Homework7\bin\Debug\Homework7.exe
+C:\Users\10\Desktop\Homework7\Homework7\bin\Debug\Homework7.pdb
+C:\Users\10\Desktop\Homework7\Homework7\obj\Debug\Homework7.csprojResolveAssemblyReference.cache
